@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/amankumar1222/blog-preview-card-main]
+- Live Site URL: (https://blog-preview-card-main.netlify.app/))
 
 ## My process
 
@@ -81,7 +81,7 @@ Now days i am practicing and learning css html js so i want to make some project
 ## Author
 
 - Website - [Aman kumar](In Progress)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/amankumar1222)
 - Twitter - [@Amankumar](...)
 
 
